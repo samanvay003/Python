@@ -1,5 +1,4 @@
 import os
-from unittest import result
 abs_path = input("Please enter the absolute path: ")
 
 if(os.path.isfile(abs_path)):
